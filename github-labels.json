@@ -50,6 +50,11 @@
     "description": ""
   },
   {
+    "name": "status: needs triage",
+    "color": "fbca04",
+    "description": "This issue may need triage"
+  },
+  {
     "name": "status: wont do/fix",
     "color": "eeeeee",
     "description": "This will not be worked on"
